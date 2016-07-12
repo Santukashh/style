@@ -1,8 +1,6 @@
 {
     "room": "Muzikos Pasaulis",
     "author": "Santa",
-    "icon": null,
-    "css": null,
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -27,7 +25,7 @@
         "user": null
     },
     "images": {
-        "background": "http://image.prntscr.com/image/2153f208e6af48d481cc68e13bb62e18.jpg",
+        "background": "https://i.imgur.com/5QBuLmF.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
